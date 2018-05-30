@@ -1,5 +1,5 @@
 #include "hello.h"
 
-int _tmain (void){
+int main (void){
     hello();
 }
