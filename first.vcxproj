@@ -17,9 +17,11 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />  
   <ItemGroup>  
     <ClCompile Include="main.cpp" />  
+    <ClCompile Include="hello.cpp" />  
   </ItemGroup>  
   <ItemGroup>  
     <ClInclude Include="main.h" />  
+    <ClInclude Include="hello.h" />  
   </ItemGroup>  
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" />  
 </Project>
